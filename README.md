@@ -4,12 +4,12 @@ This project provides a structure and tools for automated API testing using Pyth
 
 ## Testing Swagger Petstore User Management Endpoints 🧪
 
-This suite of tests is focused on validating and testing CRUD (Create, Read, Update, Delete) operations related to user management within the Swagger Petstore API (Base URL: petstore.swagger.io/v2). Specifically, the tests interact with the following endpoints:
+This suite of tests is focused on validating and testing CRUD (Create, Read, Update, Delete) operations related to user management within the Swagger Petstore API (Base URL: https://petstore.swagger.io). Specifically, the tests interact with the following endpoints:
 
-Create User (POST): Endpoint URL: https://petstore.swagger.io/v2/user
-Get User (GET): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
-Update User (PUT): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
-Delete User (DELETE): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
+- Create User (POST): Endpoint URL: https://petstore.swagger.io/v2/user
+- Get User (GET): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
+- Update User (PUT): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
+- Delete User (DELETE): Endpoint URL: https://petstore.swagger.io/v2/user/{username}
 
 These tests are designed to ensure the functionality and correctness of these user management endpoints provided by the Swagger Petstore API. They interact with the defined URLs in the Routes class to perform comprehensive testing of user-related functionalities.
 
@@ -30,7 +30,7 @@ These tests are designed to ensure the functionality and correctness of these us
 - Openpyxl 3.1.2
 - allure-pytest 2.13.2
 
-## Folder Structure 📂
+## <a id="folder-structure">Folder Structure 📂</a>
 
 - **logging.conf:** Configuration file for logging setup.
 - **requirements.txt:** File listing required Python packages for the project.
