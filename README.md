@@ -1,6 +1,9 @@
-# Automated API Testing with Python, Requests, and Pytest 🤖🐍
+# Automated API Testing with Python, Requests, and Pytest
+![Static Badge](https://img.shields.io/badge/Python-logo?style=for-the-badge&logo=python&logoColor=rgb(255%2C%20221%2C%2084)&labelColor=rgb(61%2C%20121%2C%20170)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/Requests-logo?style=for-the-badge&logo=requests&logoColor=rgb(255%2C%20192%2C%200)&labelColor=rgb(192%2C%200%2C%200)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/Pytest-logo?style=for-the-badge&logo=pytest&logoColor=rgb(0%2C%20160%2C%20228)&labelColor=white&color=rgb(22%2C%2027%2C%2034))
 
-This project provides a structure and tools for automated API testing using Python, Requests, and Pytest, following Data-Driven Testing (DDT) best practices and employing the Service Object Model design pattern.
+This project offers a framework and tools for automated API testing using Python, Requests, and Pytest, following Data-Driven Testing (DDT) best practices and employing the Service Object Model design pattern.
 
 ## Testing Swagger Petstore User Management Endpoints 🧪
 
